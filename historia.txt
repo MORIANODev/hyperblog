@@ -2,4 +2,4 @@ Estoy empezando a crear mi historia.
 
 Soy Jose, tengo 22 años.
 
-Estoy pasandola mal.
+Estoy llevando el curso de git y github en platzi.
